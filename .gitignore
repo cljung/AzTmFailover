@@ -1,0 +1,7 @@
+packages/
+.vs/
+AzTmFailover/bin/
+AzTmFailover/obj/
+AzTmFailover/Properties/PublishProfiles/
+
+
